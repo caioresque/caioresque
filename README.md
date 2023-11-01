@@ -27,7 +27,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 </a>
 
 <a href="https://m.facebook.com/caio.resque" alt="" target="_blank">
-<img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=facebook"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
 </a>
 
 <a href="https://twitter.com/caioresque" alt="" target="_blank">
