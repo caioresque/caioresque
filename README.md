@@ -22,3 +22,5 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 
 <h2 align="center">💬&ensp; <i>Redes Sociais</i> &ensp;💬</h2>
 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+
