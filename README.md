@@ -14,7 +14,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://skillicons.dev/icons?i=github" width="40" alt=" icon"/><br>
+  <img src="https://skillicons.dev/icons?i=github" width="35" alt=" icon"/><br>
   
   
   
