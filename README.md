@@ -34,6 +34,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
 </a>
 
+<img align="center" height="30 width="40" src="https://skillicons.dev/icons?i=instagram" width="65px" alt=" icon"/>
 
 
 
