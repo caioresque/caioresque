@@ -16,6 +16,9 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Caio-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=github" width="32" alt=" icon"/>
+<td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt=" icon"/><br>
+      <sub>
 </div>
 
 <h2 align="center">💬&ensp; <i>Redes Sociais</i> &ensp;💬</h2>
