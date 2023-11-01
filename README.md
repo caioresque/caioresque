@@ -6,8 +6,8 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 - 📫 Contate-me no email: caio.resque@gmail.com
 
 <div>
+<a href="https://github-readme-stats.vercel.app/api?username=caioresque)](https://github.com/caioresque/github-readme-stats" target="_blank"></a>
 <a href="https://https://github.com/caioresque">
-(https://github-readme-stats.vercel.app/api?username=caioresque)](https://github.com/caioresque/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
