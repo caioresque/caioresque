@@ -4,6 +4,6 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 - 🌱 Estou estudando React e Typescript.
 - 💻 No futuro pretendo aprender tecnologias de back-end para que assim, eu possa me tornar um desenvolvedor Fullstack.
 - 📫 Contate-me no email: caio.resque@gmail.com
--
+
 
 
