@@ -7,7 +7,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 
 <div>
 <div style="text-align: center;">
-<p align="center">
+
 <a href="https://github.com/caioresque">
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=caioresque&show_icons=true&theme=gruvbox"/>
 <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioresque&layout-compact&langs_count-16&theme=gruvbox"/>
