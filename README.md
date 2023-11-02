@@ -5,7 +5,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 - 💻 No futuro pretendo aprender tecnologias de back-end, para que assim, eu possa me tornar um desenvolvedor Fullstack.
 - 📫 Contate-me no email: caio.resque@gmail.com
 
-<div>
+
 <a href="https://github.com/caioresque"></a>
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=caioresque&show_icons=true&theme=gruvbox"/>
 <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioresque&layout-compact&langs_count-16&theme=gruvbox"/>
@@ -30,7 +30,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 <p align="center">
 <img align="center" alt="Caio-Git" height="30" width="40" src="https://skillicons.dev/icons?i=github" width="32" alt=" icon"/>
 </p>
-</div>
+
 
 
 
