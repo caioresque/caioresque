@@ -10,7 +10,6 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=caioresque&show_icons=true&theme=gruvbox"/>
 <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioresque&layout-compact&langs_count-16&theme=gruvbox"/>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<div style="display: inline_block"></div>
 <div style="text-align: center;">
 <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
