@@ -16,12 +16,10 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Caio-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=github" width="32" alt=" icon"/>
-
-
 </div>
 
 <h2 align="center"><i>Redes Sociais</i>💬</h2>
-
+<div style="display: inline_block"></div
 <a href="https://www.linkedin.com/in/caioresque" alt="" target="_blank">
 <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
