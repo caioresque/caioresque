@@ -12,9 +12,10 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
 
-
+<div style="display: flex; flex-direction: column; align-items: center;">
 <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </p>
+</div>
 
 <p align="center">
 <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
