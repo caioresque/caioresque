@@ -6,7 +6,6 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 - 📫 Contate-me no email: caio.resque@gmail.com
 
 <div>
-<div style="text-align: center;">
 
 <a href="https://github.com/caioresque"></a>
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=caioresque&show_icons=true&theme=gruvbox"/>
