@@ -36,7 +36,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-</div>
+
 
 
 
