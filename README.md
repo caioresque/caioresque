@@ -19,11 +19,9 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 </div>
 
 <h2 align="center"><i>Redes Sociais</i>💬</h2>
-<div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/caioresque" alt="" target="_blank">
 <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 
 <a href="https://m.facebook.com/caio.resque" alt="" target="_blank">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
