@@ -30,7 +30,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 
 
 <img align="center" alt="Caio-Git" height="30" width="40" src="https://skillicons.dev/icons?i=github" width="32" alt=" icon"/>
-</div>
+
 
 
 
