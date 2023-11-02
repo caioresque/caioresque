@@ -19,17 +19,14 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 </div>
 
 <h2 align="center"><i>Redes Sociais</i>💬</h2>
-<p align="center">
+<div style="text-align: center;">
 <a href="https://www.linkedin.com/in/caioresque" alt="" target="_blank">
 <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-</p>
 
-<p align="center">
 <a href="https://m.facebook.com/caio.resque" alt="" target="_blank">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
 </a>
-</p>
 
 <a href="https://twitter.com/caioresque" alt="" target="_blank">
 <img <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=twitter"/>
@@ -38,7 +35,7 @@ Olá, Meu nome é Caio Bassalo Resque 👋
 <a href="https://instagram.com/caio.resque" alt="" target="_blank">
 <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-
+</div>
 
 
 
